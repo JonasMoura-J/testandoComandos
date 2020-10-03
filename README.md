@@ -2,7 +2,7 @@
 Este repositorio serve apenas para testes de exemplos de um curso sobre o GitHub
 
 
-![js](./js.png)
+![Java](./java.png)
 
 #Com rebase
 
